@@ -1,0 +1,12 @@
+{
+    "train_path": "../../dataset/Activity Cliff/AGILE HeLa/train.xlsx",
+    "test_path": "../../dataset/Activity Cliff/AGILE HeLa/test.xlsx",
+    "batch_size": 64,
+    "learning_rate": 1e-4,
+    "weight_decay": 3e-3,
+    "num_epochs": 200,
+    "patience": 10,
+    "seed": 42,
+    "gpu": "0",
+    "weight_path": "../../ckpts/temp/AGILE HeLa/activity_cliff.pth"
+}

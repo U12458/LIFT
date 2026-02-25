@@ -1,0 +1,11 @@
+{
+  "task": "regression",
+  "datasets": ["AGILE HeLa"],
+  "batch_size": 32,
+  "learning_rate": 3e-4,
+  "weight_decay": 3e-3,
+  "num_epochs": 200,
+  "num_repeats": 3,
+  "gpu": 0,
+  "seed": 42
+}

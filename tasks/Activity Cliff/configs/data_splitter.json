@@ -1,0 +1,9 @@
+{
+    "input_path": "../../dataset/LNPs-TE/in vitro/AGILE HeLa.xlsx",
+    "output_train": "../../dataset/Activity Cliff/AGILE HeLa/train.xlsx",
+    "output_test": "../../dataset/Activity Cliff/AGILE HeLa/test.xlsx",
+    "output_pairs": "../../dataset/Activity Cliff/AGILE HeLa/activity_cliff_pairs.txt",
+    "similarity_threshold": 0.9,
+    "activity_diff_threshold": 1000,
+    "seed": 42
+}
