@@ -2,7 +2,7 @@
 
 This is the official implementation of LIFT: "Transformer-Based Multidimensional Feature Fusion for Accurate Prediction of Lipid Nanoparticles Transfection Efficiency". In this work, we introduce LNPs Integrated Feature-fusion Transformer (LIFT), a multidimensional feature fusion framework for accurate LNPs transfection efficiency prediction.
 
-<img src="figs/LIFT.png" width="800">
+<img src="figs/LIFT.png" width="600">
 
 ## Getting Started
 
