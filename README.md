@@ -97,8 +97,16 @@ $ python activity_cliff.py --config ./configs/activity_cliff.json
 If you find our work useful in your research, please cite:
 
 ```
-@article{
-  title={Transformer-Based Multidimensional Feature Fusion for Accurate Prediction of Lipid Nanoparticles Transfection Efficiency},
-  author={Daohong Gong, Xiaowei Xie, Jianxin Tang, Shiliang Li and Honglin Li},
+@article{10.1093/bib/bbag092,
+    author = {Daohong Gong, Xiaowei Xie, Jianxin Tang, Shiliang Li and Honglin Li},
+    title = {Transformer-based multidimensional feature fusion for accurate prediction of lipid nanoparticles transfection efficiency},
+    journal = {Briefings in Bioinformatics},
+    volume = {27},
+    number = {2},
+    pages = {bbag092},
+    year = {2026},
+    month = {03},
+    issn = {1477-4054},
+    doi = {10.1093/bib/bbag092}
 }
 ```
